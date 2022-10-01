@@ -1,0 +1,57 @@
+{
+    "app_id": 2,
+    "app_name": "VideoTalk",
+    "app_package": "com.liverandomgirlstalk.videochat",
+    "app_url": "https://play.google.com/store/apps/details?id=com.liverandomgirlstalk.videochat",
+    "app_version": "2.8",
+    "app_version_code": 28,
+    "have_to_update": 0,
+    "ad_mode": 1,
+    "banner_ad_type": 1,
+    "native_ad_type": 1,
+    "interstitial_ad_type": 1,
+    "reward_ad_type": 0,
+    "ad_position": {
+        "banner_position_1": 1,
+        "banner_position_2": 1,
+        "banner_position_3": 1,
+        "native_position_1": 1,
+        "native_position_2": 1,
+        "native_position_3": 1,
+        "inter_position_1": 1,
+        "inter_position_2": 1,
+        "inter_position_3": 1
+    },
+    "admob": {
+        "app_id": 2,
+        "admob_app_id": "ca-app-pub-6676508607259992~8597896939",
+        "admob_banner": "/150790500,22813701799/25393_APP_BANNER_320x50",
+        "admob_native": "/150790500,22813701799/25393_APP_NATIVE",
+        "admob_interstitial": "/150790500,22813701799/25393_APP_INTER",
+        "admob_openapp": "/150790500,22813701799/25393_APP_OPEN",
+        "admob_reward": "/150790500,22813701799/25393_APP_REWARDED"
+    },
+    "facebook": {
+        "app_id": 2,
+        "facebook_app_id": "2089696061180491",
+        "facebook_banner": "2089696061180491_2165103613639735",
+        "facebook_native": "2089696061180491_2165108183639278",
+        "facebook_interstitial": "2089696061180491_2141562699327160",
+        "facebook_reward": "0"
+    },
+    "applovin": {
+        "app_id": 2,
+        "applovin_app_id": "Ptfxk3PIUOLL1JK3INSOVyESTpVZJMbLzTTtB6-HfUkhxkuVMmkoRA2w4c2d4QwQ9r7mKDd1yecmCD5S09WX7G",
+        "applovin_banner": "0a7dbfbcd4cb33aa",
+        "applovin_native": "94dd64f6a1bc4cb1",
+        "applovin_interstitial": "b1fc8132c52dafe2",
+        "applovin_reward": ""
+    },
+    "unity": {
+        "app_id": 2,
+        "unity_app_id": "4721877",
+        "unity_banner": "Banner_Android",
+        "unity_interstitial": "Interstitial_Android",
+        "unity_reward": ""
+    }
+}
