@@ -10,7 +10,7 @@
     "banner_ad_type": 0,
     "native_ad_type": 0,
     "interstitial_ad_type": 0,
-    "reward_ad_type": 0,
+    "reward_ad_type": 12,
     "ad_position": {
         "banner_position_1": 1,
         "banner_position_2": 1,
